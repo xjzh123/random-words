@@ -292,7 +292,6 @@ awfully ad.令人畏惧的；很
 awkward a.笨拙的；尴尬的
 ax n.斧子
 axis n.轴，轴线；中心线
-abandon/ ə’bændə n/ vt. 丢弃；放弃，抛弃丢弃；放弃，抛弃
 baby n.婴儿；孩子气的人
 back ad.在后；回原处；回
 background n.背景，后景，经历
@@ -2156,7 +2155,6 @@ knock vi.&vt.&n.敲，击，打
 knot n.(绳的)结，(树的)节
 know vt.知道；认识；通晓
 knowledge n.知识，学识；知道
-abandon/ ə’bændə n/ vt. 丢弃；放弃，抛弃丢弃；放弃，抛弃
 lab n.实验室，研究室
 label n.标签；标记，符号
 laboratory n.实验室，研究室
@@ -2242,7 +2240,6 @@ loss n.遗失；损失；失败
 lot n.许多，大量；签，阄
 loud a.响亮的；吵闹的
 loudspeaker n.扬声器，喇叭
-abandon/ ə’bændə n/ vt. 丢弃；放弃，抛弃丢弃；放弃，抛弃
 landlord n.地主；房东，店主
 lane n.(乡间)小路；跑道
 language n.语言，语言课程
@@ -2327,7 +2324,6 @@ long vi.渴望，极想念
 look vi.看，显得n.看
 loop n.圈，环，环孔
 loose a.松的；宽松的
-abandon/ ə’bændə n/ vt. 丢弃；放弃，抛弃丢弃；放弃，抛弃
 machine n.机器；机械
 mad a.发疯的；恼火的
 madam n.夫人，女士，太太
@@ -2507,7 +2503,6 @@ modest a.有节制的；谦虚的
 modify vt.更改，修改；修饰
 moist a.湿润的；多雨的
 moisture n.潮湿，湿气；温度
-abandon/ ə’bændə n/ vt. 丢弃；放弃，抛弃丢弃；放弃，抛弃
 nail n.钉；指甲vt.钉
 naked a.裸体的；无遮敝的
 name n.名字；名誉vt.说出
@@ -3089,7 +3084,6 @@ pursuit n.追赶；追求；事务
 push vt.推，逼迫vi.推
 put vt.放，摆；使处于
 puzzle n.难题；谜vi.使迷惑
-abandon/ ə’bændə n/ vt. 丢弃；放弃，抛弃丢弃；放弃，抛弃
 qualify vt.使具有资格
 quality n.质量；品质，特性
 quantity n.量，数量，分量
@@ -3111,7 +3105,6 @@ quotation n.引用；引文；报价单
 quote vt.引用，引证；报价
 queue n.行列vi.排队等候
 quick a.快的；敏捷的
-abandon/ ə’bændə n/ vt. 丢弃；放弃，抛弃丢弃；放弃，抛弃
 rabbit n.兔子，野兔
 race n.比赛，竞赛，竞争
 race n.人种，种族，民族
@@ -3353,7 +3346,6 @@ rule n.统治；规定；习惯
 ruler n.统治者；尺，直尺
 rumour n.谣言，谣传，传闻
 run vi.跑，奔；行驶；流
-abandon/ ə’bændə n/ vt. 丢弃；放弃，抛弃丢弃；放弃，抛弃
 sack n.袋，麻袋；开除
 sacred a.上帝的；神圣的
 sacrifice n.&vt.牺牲；南祭
@@ -3919,7 +3911,6 @@ sympathize vi.同情；同感，共鸣
 sympathy n.同情；一致，同感
 synthetic a.综合的；合成的
 systematic (al) a.有系统的；有计划的
-abandon/ ə’bændə n/ vt. 丢弃；放弃，抛弃丢弃；放弃，抛弃
 table n.桌子；餐桌；项目表
 tablet n.碑，匾；药片
 tag n.附加语；标签
@@ -4267,7 +4258,6 @@ utilize vt.利用
 utmost a.最远的n.极限
 utter a.完全的，彻底的
 utter vt.发出，说，讲
-abandon/ ə’bændə n/ vt. 丢弃；放弃，抛弃丢弃；放弃，抛弃
 vacant a.空的；未被占用的
 vacation n.假期，休假
 vacuum n.真空；真空吸尘器
