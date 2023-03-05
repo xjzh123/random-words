@@ -3134,8 +3134,7 @@ raid n.袭击；突然搜查
 rail n.横条，横杆；铁轨
 railroad n.铁路vi.由铁路运输
 railway n.铁路，铁道
-r
-ecite vt.&vi.背诵，朗诵
+recite vt.&vi.背诵，朗诵
 recognition n.认出，识别；承认
 recognize vt.认识，认出；承认
 recollect vt.回忆，追忆，想起
