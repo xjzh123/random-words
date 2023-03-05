@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word</title>
+    <script src="words.js"></script>
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@1.*/css/pico.min.css">
+    <style>
+        :root {
+            --font-size: 16px;
+            --spacing: 10px;
+        }
+
+        .grid {
+            margin-bottom: 10px;
+        }
+
+        .words-container {
+            margin-bottom: 20px;
+        }
+
+        .grid>* {
+            padding: calc(var(--spacing)/ 2) 0;
+            border-radius: var(--border-radius);
+            background: var(--code-background-color);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 5em;
+        }
+    </style>
+</head>
+
+<body>
+    <main class="container" x-data="data">
+        <h1>Words</h1>
+        <article>
+            <div class="words-container">
+                <template x-for="words in chosen" :key="words">
+                    <div class="grid">
+                        <template x-for="word in words" :key="word">
+                            <div x-text="word"></div>
+                        </template>
+                    </div>
+                </template>
+            </div>
+            <button @click="
+                localStorage['words'] = JSON.stringify(choose(4, 4))
+                chosen = JSON.parse(localStorage['words'])"
+            >Get new</button>
+        </article>
+    </main>
+</body>
+
+</html>
