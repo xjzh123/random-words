@@ -1554,7 +1554,6 @@ extreme a. 极度的；尽头的
 extremely ad. 极端，极其，非常
 eye n. 眼睛；眼力；鉴赏力
 eyesight n. 视力，目力
-F
 face n. 脸 vt. 面向；面对
 facial a. 面部用的
 facility n. 设备；容易；便利
