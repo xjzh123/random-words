@@ -3023,7 +3023,7 @@ voyage   n. 航行，旅行
 wage   n. 工资，工钱，报酬
 wait   vi. 等，等候
 waiter   n. （餐厅）男服务员
-waiting -room   n.候诊室,候车室
+waiting-room   n.候诊室,候车室
 waitress   n. 女服务员
 wake (woke, woken) v.醒来,叫醒
 walk   n.& v. 步行；散步
