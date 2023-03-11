@@ -16,19 +16,39 @@
             --spacing: 10px;
         }
 
-        .words-container {
-            margin-bottom: 20px;
+        h1 {
+            --typography-spacing-vertical: 1rem;
+        }
+
+        article {
+            margin: 0;
         }
 
         .grid>* {
-            padding: calc(var(--spacing)/ 2) 0;
+            padding: calc(var(--spacing)/ 2) var(--spacing);
             border-radius: var(--border-radius);
             background: var(--code-background-color);
             display: flex;
             align-items: center;
             justify-content: center;
-            height: 5em;
+            text-align: center;
             margin-bottom: 10px;
+            min-height: 3em;
+        }
+
+        button {
+            position: sticky;
+            bottom: 10px;
+        }
+
+        @media (min-width: 992px) {
+            .grid>* {
+                height: 5em;
+            }
+
+            .words-container {
+                margin-bottom: 20px;
+            }
         }
     </style>
 </head>
@@ -38,7 +58,7 @@
         <h1>Words</h1>
         <article>
             <div class="words-container">
-                <template x-for="words in chosen" :key="words">
+                <template x-for="words in words2d" :key="words">
                     <div class="grid">
                         <template x-for="word in words" :key="word">
                             <div x-text="word"></div>
@@ -47,8 +67,9 @@
                 </template>
             </div>
             <button @click="
-                localStorage['words'] = JSON.stringify(choose(4, 4))
-                chosen = JSON.parse(localStorage['words'])
+                localStorage['words'] = JSON.stringify(getWords2d(4, 4))
+                words2d = JSON.parse(localStorage['words'])
+                $el.blur()
             ">
                 Get new
             </button>
