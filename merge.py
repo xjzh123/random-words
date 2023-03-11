@@ -19,6 +19,6 @@ for line in gk:
     if get_word(line) not in cet_words or '(' in line or '&' in line:
         result.append(line)
 
-result.sort()
+result.sort(key=lambda l: l.lower())
 
 print('\n'.join(result), file=open('out2.txt', 'w', encoding='utf-8'))
