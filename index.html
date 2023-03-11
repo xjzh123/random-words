@@ -24,7 +24,7 @@
             margin: 0;
         }
 
-        .grid>* {
+        .word-card {
             padding: calc(var(--spacing)/ 2) var(--spacing);
             border-radius: var(--border-radius);
             background: var(--code-background-color);
@@ -34,6 +34,12 @@
             text-align: center;
             margin-bottom: 10px;
             min-height: 3em;
+            cursor: pointer;
+        }
+
+        .word-card:hover {
+            background-color: var(--primary-hover);
+            color: var(--primary-inverse);
         }
 
         button {
@@ -61,7 +67,7 @@
                 <template x-for="words in words2d" :key="words">
                     <div class="grid">
                         <template x-for="word in words" :key="word">
-                            <div x-text="word"></div>
+                            <div x-text="word" class="word-card" :title="`Lookup in dictionary: ${word.split(' ')[0]}`" @click="window.open(`https://www.bing.com/dict/search?q=${word.split(' ')[0]}`)"></div>
                         </template>
                     </div>
                 </template>
