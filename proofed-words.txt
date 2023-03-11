@@ -3644,7 +3644,7 @@ rust n. 锈 vi. 生锈，氧化
 rusty a. 生锈的；变迟钝的
 sack n. 袋，麻袋；开除
 sacred a. 上帝的；神圣的
-sacrifice n. & vt. 牺牲；南祭
+sacrifice n. & vt. 牺牲；献祭
 sad a. 悲哀的，令人悲痛的
 saddle n. 鞍子，马鞍
 sadly ad. 悲痛地，悲哀地
