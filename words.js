@@ -1,4 +1,4 @@
-var words = `a art. 一(个)；每一(个)
+var all_words = `a art. 一(个)；每一(个)
 a. m (缩)上午，午前
 abandon vt. 丢弃；放弃，抛弃
 ability n. 能力；能耐，本领
